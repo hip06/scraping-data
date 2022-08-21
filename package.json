@@ -1,0 +1,15 @@
+{
+  "name": "scrape-phongtro123-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^16.1.0"
+  }
+}
